@@ -8,8 +8,6 @@
   padding: 0;
   box-sizing: border-box;
   text-decoration: none;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-weight: bolder;
 }
 html {
   scroll-behavior: smooth;
@@ -39,7 +37,6 @@ section {
   padding: 0 80px;
   margin: auto;
 }
-
 .about,
 .services,
 .skills,
@@ -52,7 +49,6 @@ footer {
 .services .serv-content,
 .skills .skills-content,
 .contact .contact-content {
-  
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -87,7 +83,7 @@ section .title::after {
   bottom: -8px;
   left: 50%;
   font-size: 20px;
-  color: rgb(20, 180, 220);
+  color: rgb(20,180,220);
   padding: 0 5px;
   background: #fff;
   transform: translateX(-50%);
@@ -104,7 +100,7 @@ section .title::after {
 }
 .navbar.sticky {
   padding: 15px 0;
-  background: rgb(20, 180, 220);
+  background: rgb(20,180,220);
 }
 .navbar .max-width {
   display: flex;
@@ -121,7 +117,7 @@ section .title::after {
   font-family: 'Inter', sans-serif;
 }
 .navbar .logo a span {
-  color: rgb(20, 180, 220);
+  color: rgb(20,180,220);
   transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span {
@@ -140,7 +136,7 @@ section .title::after {
   transition: color 0.3s ease;
 }
 .navbar .menu li a:hover {
-  color: rgb(20, 180, 220);
+  color: rgb(20,180,220);
 }
 
 
@@ -168,7 +164,7 @@ section .title::after {
   bottom: 10px;
   text-align: center;
   line-height: 45px;
-  color: rgb(20, 180, 220);
+  color: rgb(20,180,220);
   z-index: 9999;
   font-size: 30px;
   border-radius: 6px;
@@ -192,7 +188,6 @@ section .title::after {
 /* https://images.pexels.com/photos/168766/pexels-photo-168766.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 */
 .home {
   display: flex;
-  opacity: 1.4;
   background: url("https://images.wallpaperscraft.com/image/single/code_lines_programming_130775_1366x768.jpg") no-repeat center;
   background-color: #111;
   height: 100vh;
@@ -225,23 +220,23 @@ section .title::after {
   margin: 5px 0;
 }
 .home .home-content .text-3 span {
-  color: rgb(20, 180, 220);
+  color: rgb(20,180,220);
   font-weight: 500;
 }
 .home .home-content a {
   display: inline-block;
-  background: rgb(20, 180, 220);
+  background: rgb(20,180,220);
   color: #fff;
   font-size: 25px;
   padding: 12px 36px;
   margin-top: 20px;
   font-weight: 400;
   border-radius: 6px;
-  border: 1px solid rgb(20, 180, 220);
+  border: 1px solid rgb(20,180,220);
   transition: all 0.3s ease;
 }
 .home .home-content a:hover {
-  color: rgb(20, 180, 220);
+  color: rgb(20,180,220);
   background: none;
 }
 
@@ -277,10 +272,14 @@ background-size: 10px 10px;
   width: 45%;
 }
 .about .about-content .left img {
-  height: 400px;
+  /* height: 400px;
   width: 400px;
   object-fit: cover;
-  border-radius: 200px 200px;
+  border-radius: 200px 200px; */
+  height: 350px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 200% 200%;
 }
 .about .about-content .right {
   width: 55%;
@@ -299,18 +298,18 @@ background-size: 10px 10px;
 }
 .about .about-content .right a {
   display: inline-block;
-  background: rgb(20, 180, 220);
+  background: rgb(20,180,220);
   color: #fff;
   font-size: 20px;
   font-weight: 500;
   padding: 10px 30px;
   margin-top: 20px;
   border-radius: 6px;
-  border: 1px solid rgb(20, 180, 220);
+  border: 1px solid rgb(20,180,220);
   transition: all 0.3s ease;
 }
 .about .about-content .right a:hover {
-  color: rgb(20, 180, 220);
+  color: rgb(20,180,220);
   background: none;
 }
 .about .title::after {
@@ -344,7 +343,7 @@ background-size: 10px 10px;
   transition: all 0.3s ease;
 }
 .services .serv-content .card:hover {
-  /* background: rgb(20, 180, 220); */
+  /* background: rgb(20,180,220); */
   color: #555;
   /* change*/
 }
@@ -356,7 +355,7 @@ background-size: 10px 10px;
 }
 .services .serv-content .card i {
   font-size: 50px;
-  color: rgb(20, 180, 220);
+  color: rgb(20,180,220);
   transition: color 0.3s ease;
 }
 .services .serv-content .card:hover i {
@@ -376,7 +375,7 @@ background-size: 10px 10px;
   width: 150px;
   /* object-fit: cover; */
   border-radius: 5%;
-  /* border: 5px solid rgb(20, 180, 220); */
+  /* border: 5px solid rgb(20,180,220); */
   transition: all 0.3s ease;
 }
 #html_img img{
@@ -441,18 +440,18 @@ background-size: 10px 10px;
 }
 .skills .skills-content .left a {
   display: inline-block;
-  background: rgb(20, 180, 220);
+  background: rgb(20,180,220);
   color: #fff;
   font-size: 18px;
   font-weight: 500;
   padding: 8px 16px;
   margin-top: 20px;
   border-radius: 6px;
-  border: 1px solid rgb(20, 180, 220);
+  border: 1px solid rgb(20,180,220);
   transition: all 0.3s ease;
 }
 .skills .skills-content .left a:hover {
-  color: rgb(20, 180, 220);
+  color: rgb(20,180,220);
   background: none;
 }
 .skills .skills-content .right .bars {
@@ -480,7 +479,7 @@ background-size: 10px 10px;
   height: 100%;
   left: 0;
   top: 0;
-  background: rgb(20, 180, 220);
+  background: rgb(20,180,220);
 }
 .skills-content .right .html::before {
   width: 90%;
@@ -574,7 +573,7 @@ background-size: 10px 10px;
   width: 250px;
   object-fit: cover;
   border-radius: 5%;
-  /* border: 5px solid rgb(20, 180, 220); */
+  /* border: 5px solid rgb(20,180,220); */
   transition: all 0.3s ease;
 }
 .project .carousel .card:hover img {
@@ -591,7 +590,7 @@ background-size: 10px 10px;
   margin: 0 5px;
   outline: none !important;
   border-radius: 50%;
-  border: 2px solid rgb(20, 180, 220) !important;
+  border: 2px solid rgb(20,180,220) !important;
   transition: all 0.3s ease;
 }
 .owl-dot.active {
@@ -600,7 +599,7 @@ background-size: 10px 10px;
 }
 .owl-dot.active,
 .owl-dot:hover {
-  background: rgb(20, 180, 220) !important;
+  background: rgb(20,180,220) !important;
 }
 .skills-images {
   width: 120px;
@@ -610,7 +609,7 @@ background-size: 10px 10px;
 /* contact section styling */
 
 .material-symbols-outlined{
-  background-color: rgb(20, 180, 220);
+  background-color: rgb(20,180,220);
   color: #fff;
 }
 .contact .title::after {
@@ -640,7 +639,7 @@ background-size: 10px 10px;
 }
 .contact .contact-content .row i {
   font-size: 25px;
-  color: rgb(20, 180, 220);
+  color: rgb(20,180,220);
 }
 .contact .contact-content .info .head {
   font-weight: 500;
@@ -707,12 +706,12 @@ background-size: 10px 10px;
   border-radius: 6px;
   cursor: pointer;
   flex-wrap: nowrap;
-  background: rgb(20, 180, 220);
-  border: 1px solid rgb(20, 180, 220);
+  background: rgb(20,180,220);
+  border: 1px solid rgb(20,180,220);
   transition: all 0.3s ease;
 }
 .right form .button-area button:hover {
-  color: rgb(20, 180, 220);
+  color: rgb(20,180,220);
   background: none;
 }
 /* footer section styling */
@@ -723,7 +722,7 @@ footer {
   text-align: center;
 }
 footer span a {
-  color: rgb(20, 180, 220);
+  color: rgb(20,180,220);
   text-decoration: none;
 }
 footer span a:hover {
@@ -824,6 +823,12 @@ footer span a:hover {
   .services .serv-content .card {
     width: 100%;
   }
+  
+}
+@media screen and (min-width: 200px) and (max-width: 600px){
+  #box7{
+    width: 100%;
+  }
 }
 
 @media (max-width: 500px) {
@@ -858,13 +863,10 @@ footer span a:hover {
 }
 
 
-
-#box4{
-  font-size: 37px;
-}
-
 .box4 {
-
+  margin-top: -100px;
+  font-size: 25px;
+  font-weight: bolder;
   padding: 40px;
   font-family: Arial, Helvetica, sans-serif;
   color: black;
@@ -899,15 +901,284 @@ footer span a:hover {
   margin-bottom: 30px;
 }
 .skills-list div h2{
-  font-size: 25px;
+  font-size: 20px;
   font-weight: bold;
   margin-bottom: 15px;
 }
 .skills-list div:hover{
-  background: crimson;
+  background: rgb(20,180,220);
   color: #E0E0E0;
   transform: translateY(-10px);
 }
-.skills-list div p{
-  font-size: 19px;
-}
+
+
+
+
+
+/* css part  */
+
+
+
+.pieContainer {
+  /* margin-top: 100px;
+  margin: auto; */
+  height: 100px;
+  width: 100px;
+  position: relative;
+  margin-top: 10px;
+  }
+
+  .pieBackground{
+  background-color: #333;
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  
+  -webkit-box-shadow:  0px 0px 5px 1px rgba(0, 0, 0, .75);      
+  box-shadow:  0px 0px 5px 1px rgba(0, 0, 0, .75);
+  }
+
+  .stat-circle-cover {
+  position: absolute;
+  top: 10%;
+  right: 10%;
+  
+  background-color: #333;
+  height: 80%;
+  width: 80%;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  
+  -moz-box-shadow:inset 0px 0px 5px #666;
+  -webkit-box-shadow:inset 0px 0px 5px #666;
+  box-shadow:inset 0px 0px 1px #666;
+  }
+
+  .stat-circle-cover span.stat-number {
+  text-align: center;
+  vertical-align: middle;
+  width: 100%;
+  line-height: 80px;
+  color: #f78e1e;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 24px;
+  font-family: Helvetica-Neue, Helvetica, arial, verdana, sans-serif;
+  font-weight: bold;
+  }
+
+  .danny {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  clip: rect(0px, 50px, 100px, 0px);
+  }
+
+  .hold {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  clip: rect(0px, 100px, 100px, 50px);
+  }
+
+
+  #pieSlice99_1 .danny {
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+  }
+
+  #pieSlice99_2 {
+  -webkit-transform:rotate(180deg);
+  -moz-transform:rotate(180deg);
+  -o-transform:rotate(180deg);
+  transform:rotate(180deg);
+  }
+
+  #pieSlice99_2 {
+  -webkit-transform:rotate(180deg);
+  -moz-transform:rotate(180deg);
+  -o-transform:rotate(180deg);
+  transform:rotate(180deg);
+  }
+
+  #pieSlice99_2 .danny {
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+  
+  }
+
+  .Col1{
+      background-color: green;
+  }
+  .Col2{
+      background-color: red;
+  }
+  .Col3{
+      background-color: #f78e1e;
+  }
+  .Col4{
+      background-color: aqua;
+  }
+  .Col5{
+      background-color: purple;
+  }
+
+  .box7{
+    width: 600px;
+    margin: auto;
+      display: grid;
+      grid-template-columns: repeat(auto-fill,minmax(100px,1fr));
+      gap: 20px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      text-align: center;
+      align-items: center;
+  }
+[10:23 pm, 27/09/2022] sujeet Bhai: <div class="calendar">
+
+    <!-- this is the div where your calander will apear -->
+
+</div>
+
+<div class="box7" id="box7">
+
+
+
+
+    <div>
+  <div class="pieContainer">
+    <div class="pieBackground">
+    </div>
+    <div id="pieSlice99_1" class="hold">
+      <div class="danny Col1">
+      </div>
+    </div>
+    <div id="pieSlice99_2" class="hold">
+      <div class="danny Col1">
+      </div>
+    </div>
+    <div class="stat-circle-cover">  
+        <span class="stat-number">
+          1200+
+        </span>
+    </div>
+  </div>
+  Hours <br>
+  of full stack coading
+</div>
+
+
+
+  <div>
+  <div class="pieContainer">
+    <div class="pieBackground">
+    </div>
+    <div id="pieSlice99_1" class="hold">
+      <div class="danny Col2">
+      </div>
+    </div>
+    <div id="pieSlice99_2" class="hold">
+      <div class="danny Col2">
+      </div>
+    </div>
+    <div class="stat-circle-cover">  
+        <span class="stat-number">
+          240+
+        </span>
+    </div>
+  </div>
+  Hackerrank <br>
+  problems
+</div>
+
+
+
+<div>
+  <div class="pieContainer">
+    <div class="pieBackground">
+    </div>
+    <div id="pieSlice99_1" class="hold">
+      <div class="danny Col3">
+      </div>
+    </div>
+    <div id="pieSlice99_2" class="hold">
+      <div class="danny Col3">
+      </div>
+    </div>
+    <div class="stat-circle-cover">  
+        <span class="stat-number">
+          210+
+        </span>
+    </div>
+  </div>
+  Git <br>
+  commits
+</div>
+
+
+
+<div>
+  <div class="pieContainer">
+    <div class="pieBackground">
+    </div>
+    <div id="pieSlice99_1" class="hold">
+      <div class="danny Col4">
+      </div>
+    </div>
+    <div id="pieSlice99_2" class="hold">
+      <div class="danny Col4">
+      </div>
+    </div>
+    <div class="stat-circle-cover">  
+        <span class="stat-number">
+          20+
+        </span>
+    </div>
+  </div>
+  Projects <br>
+  DOne
+</div>
+
+
+
+<div>
+  <div class="pieContainer">
+    <div class="pieBackground">
+    </div>
+    <div id="pieSlice99_1" class="hold">
+      <div class="danny Col5">
+      </div>
+    </div>
+    <div id="pieSlice99_2" class="hold">
+      <div class="danny Col5">
+      </div>
+    </div>
+    <div class="stat-circle-cover">  
+        <span class="stat-number">
+          100+
+        </span>
+    </div>
+  </div>
+    Hours <br>
+    of soft skills    
+</div>
+
+
+
+
+</div>
