@@ -566,6 +566,7 @@ background-size: 10px 10px;
 .techStack {
   text-decoration: none;
   color: white;
+  font-weight: bolder;
 }
 
 .project .carousel .card img {
