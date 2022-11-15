@@ -1,89 +1,24 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhitim &label=Profile%20views&color=0e75b6&style=flat" alt="abhitim" /> </p>
+<h1 align="center">Hi 👋, I'm Rituraj Nagar</h1>
+<h3 align="center">I have tremendous interest towards tech, I have completed MCA in Computer Application and currently I am persuing Full Stack Web Development Course at Masai School I love to develope the Softwares that impacts the Society. With 1200+ hours of coding and 100+ hours soft skills training looking forward to utilizing my skills in a challenging work environment.</h3>
 
-![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
+- 🌱 I’m currently learning **Java**
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+- 👨‍💻 All of my projects are available at [https://riturajnagar.github.io/](https://riturajnagar.github.io/)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Abhishek+Tomar!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
+- 💬 Ask me about **HTML, CSS, JavaScript, Java**
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+- 📫 How to reach me **riturajnagar78@gmail.com**
 
-<h1 align="center"> 😇(Hello everyone) 👋</h1>
+- 📄 Know about my experiences [https://drive.google.com/file/d/10e7-Av0F3f5VrOsCQ5KliDJ86T9ew4mY/view?usp=sharing](https://drive.google.com/file/d/10e7-Av0F3f5VrOsCQ5KliDJ86T9ew4mY/view?usp=sharing)
 
-<h3 align="center">A passionate Full Stack Web Developer</h3>
-
-<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
-                                                       
-- 🔭 I’m currently working on MySkill😄
-- 🌱 I’m currently learning at Masai School
-- 💬 Ask me about Java
-- 👨‍💻 This is [My Portfolio](https://abhitim.github.io/)
--  📄 This is [My Resume](https://drive.google.com/file/d/1Fto2fg-yAs13Vpf4URa1UZOd14kzSPF3/view)
-- 📫 How to reach me: ...abhishektomarcpr@gmail.com
-<div align="center">  
-                                                         
-<h3 align="left">Connect with me</h3>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/abhishek-tomar-9a67771b3/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujeetsharma1997" height="30" width="40" /></a>
-
-<a href="https://instagram.com/abhishek_tomar3008" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujeetsharma08" height="30" width="40" /></a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/riturajnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/riturajnagar" height="30" width="40" /></a>
 </p>
 
-</div>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riturajnagar&show_icons=true&locale=en&layout=compact" alt="riturajnagar" /></p>
 
-<h2><i>My GitHub Stats</i></h2>
-
-<p>
-    
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhitim&show_icons=true&locale=en&theme=dark" alt="abhitim"  height="139" />
-    
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetsharma1997&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="sujeetsharma1997" height="139" />
-
-</p>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=abhitim&theme=xcode" height ="307"/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-<h3 align="left">🛠 &nbsp;Tech Stack </h3>
-
-<div align="center">
-  
-  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50" />
-  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
-  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/>
-
-
-<!--    -->
-
-<!--
-
-
-</div>  
-
-
-
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
-
-<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riturajnagar&" alt="riturajnagar" /></p>
